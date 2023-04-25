@@ -2,11 +2,10 @@
 
 
 - 🔭 I’m currently working on Sowfware Developer
-- .NET 
-- .NET Core
-- Html Javascript Css Bootstrap
-- Angular React Vue js
-- Entity Framework, Dapper
-- SQL Server , MySQL, PostgreSQL, Oracle
-- Mongo DB,Cassandra, 
-- Redis,ElasticSearch
+- Backend Experiences (.NET ,.NET Core,Java)
+- Web Experiences (Html Javascript Css Bootstrap)
+- Frond End Frameworks (Angular React Vue js)
+- ORM (Entity Framework, Dapper)
+- Relational Database (SQL Server , MySQL, PostgreSQL, Oracle)
+- Non Relational Database (Mongo DB,Cassandra)
+- In Memory Database (Redis,ElasticSearch)
