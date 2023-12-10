@@ -1,7 +1,7 @@
 ### My Development Experiences 👋
 
 
-- Backend Experiences (.NET ,.NET Core,Java)
+- Backend Experiences (.NET , .NET Core,Java)
 - Web Experiences (Html,Css,Javascript,Bootstrap)
 - Frond End Frameworks (Angular,React,Vue-js)
 - ORM (Entity Framework, Dapper)
